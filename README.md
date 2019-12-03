@@ -5,13 +5,13 @@
 ### befor
 2d trajectory np.ndarray[batch, 2, seq]
 
-![input](/Users/yamada/lab/src/trj2img/sample/input.png)
+![input](https://github.com/MasanoriYamada/trj2img/blob/master/sample/input.png)
 
 
 ### oufter
 image np.ndarray[batch, channel, w=64, h=64]
 
-![ouput](/Users/yamada/lab/src/trj2img/sample/output.png)
+![ouput](https://github.com/MasanoriYamada/trj2img/blob/master/sample/output.png)
 
 # How to use
 
